@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.8
+FROM quay.io/calico/kube-policy-controller:v0.7.0
