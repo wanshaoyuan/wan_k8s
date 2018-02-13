@@ -1,1 +1,1 @@
-FROM quay.io/calico/kube-policy-controller:v0.7.0
+FROM quay.io/calico/kube-controllers:v2.0.0
