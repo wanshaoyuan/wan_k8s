@@ -1,1 +1,1 @@
-FROM 192.168.2.113/test/httpd:latest
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.3
