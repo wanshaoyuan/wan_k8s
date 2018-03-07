@@ -1,1 +1,1 @@
-FROM 192.168.2.113/test/httpd:v2.0
+FROM gcr.io/google_containers/heapster-amd64:v1.4.2
