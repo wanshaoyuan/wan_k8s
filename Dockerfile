@@ -1,1 +1,1 @@
-FROM quay.io/calico/cni:v1.11.4
+FROM quay.io/calico/kube-controllers:v1.0.3
