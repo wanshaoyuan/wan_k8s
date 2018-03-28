@@ -1,1 +1,1 @@
-FROM quay.io/calico/kube-controllers:v1.0.3
+FROM gcr.io/google_containers/busybox
