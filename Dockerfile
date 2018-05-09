@@ -1,1 +1,1 @@
-FROM   quay.io/external_storage/rbd-provisioner:latest
+FROM nginx:latest
