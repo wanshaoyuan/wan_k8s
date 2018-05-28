@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/metrics-server-amd64:v0.2.1
+FROM quay.io/coreos/kube-state-metrics:v1.3.1
